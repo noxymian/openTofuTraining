@@ -1,8 +1,6 @@
 # My training for openTofu/Terraform
 
-...
 > It's repo helping me to train on openTofu/terraform, no big deal :)
-...
 
 1. links :
 
