@@ -1,6 +1,6 @@
 # My training for openTofu/Terraform
 
-> It's repo helping me to train on openTofu/terraform, no big deal :smiley:
+> It's just a repo helping me to train on openTofu/terraform, no big deal :smiley:
 
 
 1. links :link: :
